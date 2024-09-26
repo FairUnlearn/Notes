@@ -1,0 +1,6 @@
+1. Wymyślić rzeczywisty use case, gdzie **fairness będzie kluczowe** (przykład dla danych tabularycznych - uczciwa rekrutacja).
+2. Zrobić przegląd **metod progowych** post-hoc dla fairness.
+3. Metryki fairness są **ortogonalne** - należy sprawdzić czy przez _leczenie choroby a nie objawów (klasyfikacja na podstawie prawidłowych przesłanek,_ a nie dopasowywanie się konkretnie pod metryki fairnessowe) jesteśmy w stanie poprawić się na większej liczbie metryk.
+4. Wizualizacja masek/feature maps na różnych poziomach głębokości sieci wydaje się ciekawa, pomyśleć nad wyciągnięciem z jej wnętrza interpretowalnych fragmentów do potencjalnej oceny eksperckiej (coś jak u prof. Samka).
+5. W imbalance wyjmuje się czasami ostatnią warstwę sieci i dokonuje projekcji zanurzeń, następnie wizualizuje się klastry. Anchor (triplet loss) bywa wtedy blisko klasy większościoweji tym triplet lossem staramy się go przesunąć w kierunku klasy mniejszościowej (lub odsuwamy od siebie te skupiska).
+6. Sprawdzić gdzie w sieci najlepiej szukać konceptów za pomocą TCAV - czy na początku, końcu lub całej długości?

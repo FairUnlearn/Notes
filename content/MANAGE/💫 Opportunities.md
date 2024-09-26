@@ -1,0 +1,43 @@
+# DFG Meeting
+## German Research Foundation
+
+- Founding
+    - DFG → Projects (31k projects in 2022)
+    - Humboldt Foundation → People, PhD/Postdocs mostly
+        - postdocs, junior and senior researchers
+        - 6-24 months
+        - 2670 E/msc
+    - DAAD → Mobility
+        - 4-year PhD programme
+        - 2-year PhD programme for bilateral universities
+        - PhD students/ postdocs short grant
+            - 7-12 m or 1-6
+            - 800-1200E/month
+            - deadline usually at spring
+    - Donors Association →Innovative ideas
+- DFG
+    - no regional/thematic priorities
+    - no deadlines
+    - in peer review
+    - no min/max cost
+    - for people
+        - Walter Benjamin Programme
+            - early postdoc
+            - up to two years
+        - Emmy Noetiher Programme
+        - Heisenberg Programme
+    - for projects
+        - Individual research grant
+            - up to 36 months
+            - staff, equipment, article
+            - 8-9 months for results
+            - success rate about 30%
+    - mutual trust and preparing a joint project proposal founding (no name?)
+        - short visits, guest visits,
+        - max of 1 tear, applied by the German partner
+        - 3-4 months for results
+        - very high success rate (almost all, mostly formal rejections)’
+- All information is available here: [https://gepris.dfg.de/gepris/OCTOPUS?language=en](https://gepris.dfg.de/gepris/OCTOPUS?language=en)
+    - projects, people, institutions
+    - or here [https://gerit.org/de/](https://gerit.org/de/) (good database)
+- The presentation will be shared.

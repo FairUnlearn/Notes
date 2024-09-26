@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2ac807cb5889abdf","type":"text","text":"# Our Workflow","x":-140,"y":-300,"width":268,"height":62},
+		{"id":"9614a408c0235857","type":"text","text":"Get Started with this setup","x":-363,"y":-60,"width":303,"height":60},
+		{"id":"c26b06952360ba70","type":"file","file":"Shared_Obsidian/DOCS/How to get started with Obsidian.md","x":-411,"y":100,"width":400,"height":620},
+		{"id":"b72c348640af0aef","type":"text","text":"How to use Zotero","x":420,"y":-90,"width":250,"height":60},
+		{"id":"9819649370f9f2a8","type":"file","file":"Shared_Obsidian/ZOTERO PAPER NOTES/From Hope to Safety - Unlearning Biases of Deep Models via Gradient Penalization in Latent Space.md","x":77,"y":272,"width":400,"height":2068},
+		{"id":"bb2b22fba8e91d81","x":-987,"y":-67,"width":250,"height":467,"type":"text","text":"Some other options:\n- Wikis\n\t- https://www.bookstackapp.com/\n- Task management\n\t- https://docs.plane.so/introduction/home\n- Free containers\n\t- https://www.portainer.io/business-enterprise-pricing"}
+	],
+	"edges":[
+		{"id":"5b9471a42c6c7167","fromNode":"2ac807cb5889abdf","fromSide":"bottom","toNode":"9614a408c0235857","toSide":"top"},
+		{"id":"00088ae7671c0abd","fromNode":"9614a408c0235857","fromSide":"bottom","toNode":"c26b06952360ba70","toSide":"top"},
+		{"id":"5d44a1c8e7d9c18c","fromNode":"2ac807cb5889abdf","fromSide":"bottom","toNode":"b72c348640af0aef","toSide":"top"},
+		{"id":"52540d26289e63b5","fromNode":"b72c348640af0aef","fromSide":"bottom","toNode":"9819649370f9f2a8","toSide":"top"},
+		{"id":"86a58b99faf00b79","fromNode":"2ac807cb5889abdf","fromSide":"bottom","toNode":"bb2b22fba8e91d81","toSide":"top"}
+	]
+}
