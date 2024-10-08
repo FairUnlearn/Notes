@@ -1,15 +1,15 @@
 
 ### Milestones
 1. ML in PL (7.11) deadline na 31.10
-	- 
+	- #todo 
 2. ICLR Tiny (9.12) załóżmy 30.11
-	- 
+	- #todo
 3. Facct (22.01) załóżmy 15.01
-	- 
+	- #todo 
 4. Inżynierka 15.01
-	- 
+	- #todo 
 5. ECML (main track w marcu, demo koniec kwietnia)
-	- 
+	- #todo 
 
 
 ###  Roadmap
@@ -47,14 +47,14 @@
 				1. `TODO`
 			2. In-processing
 				1. Ross et al "Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations" 
-				2. `TODO`
+				2. #todo 
 			3. Post-processing
-				1. `TODO`
+				1. #todo 
 		3. Debiasing (intra-processing)
 			1. Intra-processing 
 				1. Savani et al"Intra-Processing Methods for Debiasing Neural Networks"
 				2. Chen et al "Fast model debias"
-				3. `TODO`
+				3. #todo 
 			2. Class Artifact Compensation (CLARC)
 				1. P-CLARC
 				2. Pat-CLARC
@@ -71,14 +71,17 @@
 7. Conclusions
 
 
-## Next steps / TASKS
+## Next steps / TASKS  
+
 ***Łukasz***
 - Tools for our `coloredMNIST`
-- Uzupełnienie lit review
+- Uzupełnienie lit review  
+
 ***Ignacy*** 
 - Uzupełnienie lit review
 - LRP z backpropem
 - Dodać notatkę z BUYL AND DE BIE "Inherent Limitations of AI Fairness"
+
 ***Michał***
 - LRP z nnsight
 - Roadmap
