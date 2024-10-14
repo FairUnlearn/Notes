@@ -39,12 +39,20 @@
 		4. Fairness (metrics, biases, social concerns)
 	2. Methods
 		1. Explainable AI in images
-			1. CAVs (TCAV paper)
-			2. Sailency maps (GradCAM, kilka innych, LRP)
-			3. CRP
+			1. Concept activation vectors 
+			   [Been Kim 2017 - "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"][http://arxiv.org/abs/1711.11279]
+			2. Sailency maps 
+				1. [Bach et al. 2015 "On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation" (LRP)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
+				2. [Shrikumar et al. 2019 "Learning Important Features Through Propagating Activation Differences" (DeepLIFT)](http://arxiv.org/abs/1704.02685)
+				3. [Sundararajan et al. 2017 "Axiomatic Attribution for Deep Networks" (IntegratedGradients)](https://arxiv.org/abs/1703.01365)
+				4. [Zeiler et al. 2013 "Visualizing and Understanding Convolutional Networks" (Deconvolution)](https://arxiv.org/abs/1311.2901)
+				5. [Springenberg et al. 2014 "Striving for simplicity: The all convolutional net (Guided backprop)"](https://arxiv.org/abs/1412.6806)
+				6. [Selvaraju et al. 2016 "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"](https://arxiv.org/abs/1610.02391)
+			3. Concept Relevance Popagation
+			   [Achtibat et al. 2023 - "From attribution maps to human-understandable explanations through Concept Relevance Propagation"](https://www.nature.com/articles/s42256-023-00711-8)
 		2. Pre-in-post processing taxonomy
 			1. Pre-processing
-				1. `TODO`
+				1. #todo 
 			2. In-processing
 				1. Ross et al "Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations" 
 				2. #todo 
