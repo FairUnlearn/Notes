@@ -1,15 +1,22 @@
 
 ### Milestones
-1. ML in PL (7.11) deadline na 31.10
+1. **ML in PL (7.11) deadline na 31.10**
+	- `ColoredMNIST` bias localization with `LRP/CRP`
+	- `ColoredMNIST` bias unlearning
+	- Codebase for experiments
+2. **ICLR Tiny (9.12) załóżmy 30.11**
+	- ML in PL stuff as a tiny paper selling the concept and showing the usefulness of bias unlearning via CRP 
+3. **End of the year**
+	- Debiasing datasets colellcted and incorporated into the codebase
+	- Entire pipeline for debiasing with selected concepts implemented
+	- Experiment design done
+4. **Facct (22.01) załóżmy 15.01**
+	- Unlearning people-related biases with a set of datasets
+	- Working library
+5. **Inżynierka 15.01**
 	- #todo 
-2. ICLR Tiny (9.12) załóżmy 30.11
-	- #todo
-3. Facct (22.01) załóżmy 15.01
-	- #todo 
-4. Inżynierka 15.01
-	- #todo 
-5. ECML (main track w marcu, demo koniec kwietnia)
-	- #todo 
+6. **ECML (main track w marcu, demo koniec kwietnia)**
+	- Something we figure out later
 
 
 ###  Roadmap
@@ -36,21 +43,16 @@
 		1. Machine learning (classification, learning)
 		2. Deep learning (neural networks, training)
 		3. Computer vision (CNNs, architectures, detection & classification tasks)
-		4. Fairness (metrics, biases, social concerns)
+		4. Fairness (metrics, biases, social concerns) [[valut/public/KNOWLEDGE NOTES/🧠 Machine Unlearning + Fairness|🧠 Machine Unlearning + Fairness]]
 	2. Methods
 		1. Explainable AI in images
 			1. Concept activation vectors 
-			   [Been Kim 2017 - "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"][http://arxiv.org/abs/1711.11279]
-			2. Sailency maps 
-				1. [Bach et al. 2015 "On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation" (LRP)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140)
-				2. [Shrikumar et al. 2019 "Learning Important Features Through Propagating Activation Differences" (DeepLIFT)](http://arxiv.org/abs/1704.02685)
-				3. [Sundararajan et al. 2017 "Axiomatic Attribution for Deep Networks" (IntegratedGradients)](https://arxiv.org/abs/1703.01365)
-				4. [Zeiler et al. 2013 "Visualizing and Understanding Convolutional Networks" (Deconvolution)](https://arxiv.org/abs/1311.2901)
-				5. [Springenberg et al. 2014 "Striving for simplicity: The all convolutional net (Guided backprop)"](https://arxiv.org/abs/1412.6806)
-				6. [Selvaraju et al. 2016 "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"](https://arxiv.org/abs/1610.02391)
+			   Note: [[valut/public/KNOWLEDGE NOTES/🧠 Concept Activation Vectors (CAVs)|🧠 Concept Activation Vectors (CAVs)]]
+			2.  Sailency maps 
+				Note: [[🧠 Sailency maps]]
 			3. Concept Relevance Popagation
-			   [Achtibat et al. 2023 - "From attribution maps to human-understandable explanations through Concept Relevance Propagation"](https://www.nature.com/articles/s42256-023-00711-8)
-		2. Pre-in-post processing taxonomy
+			   Our notes: [[valut/public/KNOWLEDGE NOTES/🧠 CRP - Concept Relevance Propagation|🧠 CRP - Concept Relevance Propagation]]
+		1. Pre-in-post processing taxonomy
 			1. Pre-processing
 				1. #todo 
 			2. In-processing
@@ -58,7 +60,7 @@
 				2. #todo 
 			3. Post-processing
 				1. #todo 
-		3. Debiasing (intra-processing)
+		2. Debiasing (intra-processing)
 			1. Intra-processing 
 				1. Savani et al"Intra-Processing Methods for Debiasing Neural Networks"
 				2. Chen et al "Fast model debias"
@@ -97,3 +99,5 @@
 
 **TODO na później**
 - Napisać math z debiasingu i metod, które będziemy robić
+
+Prezentacja: https://docs.google.com/presentation/d/15AHdPxaLZq_RfvB9B8yl__ecViksg64pZASl0Q4g_O4/edit?usp=sharing

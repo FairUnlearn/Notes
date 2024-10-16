@@ -1,5 +1,5 @@
 Concept Activation Vectors (CAVs) and TCAV — 2018
-- [https://arxiv.org/abs/1711.11279](https://arxiv.org/abs/1711.11279)
+- Paper: [Been Kim 2017 - "Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)"](http://arxiv.org/abs/1711.11279)
 - Implementation from google is only in TF
 - Open source github implementations suck
 

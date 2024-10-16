@@ -1,6 +1,5 @@
-
-Okay, here's the deal. 
-
+ Paper: [Achtibat et al. 2023 - "From attribution maps to human-understandable explanations through Concept Relevance Propagation"](https://www.nature.com/articles/s42256-023-00711-8)
+ 
 As a reminder layer-wise relevance propagation (LRP) goes as follows
 Math for the forward pass in neural network (nothing fancy, just a classic forward pass)  
 $$
@@ -38,3 +37,7 @@ It looks complicated, but it's we're just zeroing-out (via Kronecker delta) the 
 
 **How to constrain the flow**  
 In the paper they were selecting some channels that were relevant (via LRP) to a given class
+
+Notation explained:
+
+![[signal-2024-10-16-102432.jpeg]]
