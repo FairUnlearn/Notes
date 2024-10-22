@@ -30,19 +30,19 @@
 [[👨‍🏫 Meeting 5 - 16.10.2024]]  
 
 8.10.2024  
-[[valut/public/MEETINGS/TEAM/🗣 In-person 08.10.2024|🗣 In-person 08.10.2024  ]]
-[[valut/public/MEETINGS/PROFESSOR/👨‍🏫 Meeting 4 - 08.10.2024|👨‍🏫 Meeting 4 - 08.10.2024]]  
-[[valut/public/KNOWLEDGE NOTES/🧠 Concept Activation Vectors (CAVs)|🧠 Concept Activation Vectors (CAVs)]]  
-[[valut/public/KNOWLEDGE NOTES/🧠 CRP - Concept Relevance Propagation|🧠 CRP - Concept Relevance Propagation]]  
+[[valut/public/MEETINGS/TEAM/🗣 In-person 08.10.2024|🗣 In-person 08.10.2024  ]]  
+[[valut/public/MEETINGS/PROFESSOR/👨‍🏫 Meeting 4 - 08.10.2024|👨‍🏫 Meeting 4 - 08.10.2024]]   
+[[valut/public/KNOWLEDGE NOTES/🧠 Concept Activation Vectors (CAVs)|🧠 Concept Activation Vectors (CAVs)]]   
+[[valut/public/KNOWLEDGE NOTES/🧠 CRP - Concept Relevance Propagation|🧠 CRP - Concept Relevance Propagation]]   
 
 7.10.2024  
-[[valut/public/MEETINGS/TEAM/🗣 In-person 07.10.2024|🗣 In-person 07.10.2024  ]]
-[[valut/public/KNOWLEDGE NOTES/💻 Zennit|💻 Zennit]]  
+[[valut/public/MEETINGS/TEAM/🗣 In-person 07.10.2024|🗣 In-person 07.10.2024  ]]  
+[[valut/public/KNOWLEDGE NOTES/💻 Zennit|💻 Zennit]]   
 
 02.10.2024  
-[[valut/public/MEETINGS/TEAM/📞 Call 6 - 02.10.2024|📞 Call 6 - 02.10.2024  ]]
-[[valut/public/KNOWLEDGE NOTES/🧠 Machine Unlearning + Fairness|🧠 Machine Unlearning + Fairness]]  
-[[valut/public/KNOWLEDGE NOTES/🧠 Sailency maps|🧠 Sailency maps]]  
+[[valut/public/MEETINGS/TEAM/📞 Call 6 - 02.10.2024|📞 Call 6 - 02.10.2024  ]]   
+[[valut/public/KNOWLEDGE NOTES/🧠 Machine Unlearning + Fairness|🧠 Machine Unlearning + Fairness]]    
+[[valut/public/KNOWLEDGE NOTES/🧠 Sailency maps|🧠 Sailency maps]]   
 
 19.09.2024  
 [[valut/public/MEETINGS/TEAM/📞 Call 5 - 19.09.2024|📞 Call 5 - 19.09.2024 ]]  
